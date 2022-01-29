@@ -28,7 +28,7 @@ public class ReflectDemo04 {
         //设置obj对象中address的值为 北京
         addressField.set(obj,"北京");
         System.out.println(obj);
-
+        System.out.println();
 
     }
 }
